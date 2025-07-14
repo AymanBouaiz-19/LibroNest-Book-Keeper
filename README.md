@@ -36,7 +36,7 @@ LibroNest/ ├── data/                 # Initial book data (JSON, CSV, etc.)
 
 ## 🧪 Example Usage (CLI)
 
-Welcome to LibroNest 📚
+```Welcome to LibroNest 📚
 
 [1] Add New Book [2] View All Books [3] Search by Genre [4] Delete Book by Title [5] Exit
 
@@ -49,6 +49,7 @@ Welcome to LibroNest 📚
 │ 01 │ Atomic Habits              │ James Clear        │ 2018 │
 │ 02 │ The Hobbit                 │ J.R.R. Tolkien     │ 1937 │
 └────┴────────────────────────────┴────────────────────┴──────┘
+```
 
 ---
 
